@@ -81,7 +81,7 @@ npx json-server --watch db.json --port 4000
 📍 API REST disponible en:
 http://localhost:4000/data
 
-📡 Endpoints disponibles
+### 📡 Endpoints disponibles
 
 GET /data → Obtener todos los personajes
 
