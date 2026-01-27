@@ -58,19 +58,24 @@ one-piece-react/
 ```bash
 npm install
 
+```
+
 ### 2️⃣ Ejecutar la aplicación (IMPORTANTE)
 
 Es necesario ejecutar dos procesos en paralelo.
 
 ## 🟢 Terminal 1 — Frontend (React)
+```
 npm run dev
-
+```
 
 📍 Aplicación disponible en:
 http://localhost:5173
 
 ## 🟣 Terminal 2 — Backend (json-server)
+```
 npx json-server --watch db.json --port 4000
+```
 
 
 📍 API REST disponible en:
