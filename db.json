@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "nombre": "Shanks",
+      "descripcion": "Shanks el Pelirrojo",
+      "tripulacion": "Piratas del Pelirrojo",
+      "recompensa": "4048900000",
+      "imagen": "shanks.jpg",
+      "rol": "Pirata",
+      "recompensaActiva": "Sí",
+      "cartelWanted": true,
+      "reservado": false
+    },
+    {
+      "id": "7dff",
+      "nombre": "Monkey D. Luffy",
+      "descripcion": "Mugiwara",
+      "tripulacion": "Piratas de Sombrero de Paja",
+      "recompensa": "3000000000",
+      "imagen": "luffy.jpg",
+      "rol": "Pirata",
+      "recompensaActiva": "No",
+      "cartelWanted": true,
+      "reservado": false
+    },
+    {
+      "id": "96bb",
+      "nombre": "Sabo",
+      "descripcion": "Jefe de Estado Mayor del Ejército Revolucionario",
+      "tripulacion": "Ejercito Revolucionario",
+      "recompensa": "602000000",
+      "imagen": "sabo.jpg",
+      "rol": "Revolucionario",
+      "recompensaActiva": "Sí",
+      "cartelWanted": true,
+      "reservado": false
+    },
+    {
+      "id": "5afc",
+      "nombre": "Sengoku",
+      "descripcion": "Ex-Almirante de la Marina",
+      "tripulacion": "Marina",
+      "recompensa": "0",
+      "imagen": "almirante.jpg",
+      "rol": "Marine",
+      "recompensaActiva": "No",
+      "cartelWanted": false,
+      "reservado": false
+    }
+  ]
+}
