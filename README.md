@@ -39,6 +39,7 @@ La aplicación implementa un **CRUD completo** conectado a una API REST simulada
 ---
 
 ## 🧩 Estructura del proyecto
+```
 
 one-piece-react/
 │
@@ -51,6 +52,7 @@ one-piece-react/
 ├── db.json # Base de datos local (json-server)
 ├── package.json
 └── README.md
+```
 
 ## 🚀 Ejecución
 
