@@ -39,20 +39,38 @@ La aplicación implementa un **CRUD completo** conectado a una API REST simulada
 ---
 
 ## 🧩 Estructura del proyecto
-```
+## 📁 Estructura del proyecto
 
-one-piece-react/
-│
+```text
+One-Piece/
+├── public/
 ├── src/
-│ ├── componentes/ # Componentes reutilizables
-│ ├── paginas/ # Vistas principales (detalle)
-│ ├── contextos/ # Context API
-│ └── datos/ # Datos locales
-│
-├── db.json # Base de datos local (json-server)
-├── package.json
+│   ├── assets/
+│   ├── componentes/
+│   │   ├── About.jsx
+│   │   ├── Catalogo.jsx
+│   │   ├── EditForm.jsx
+│   │   ├── Home.jsx
+│   │   ├── ItemCard.jsx
+│   │   ├── ItemForm.jsx
+│   │   └── NavBarra.jsx
+│   ├── contextos/
+│   │   ├── TemaContext.jsx
+│   │   └── TemaProvider.jsx
+│   ├── datos/
+│   │   └── json.json
+│   ├── paginas/
+│   │   └── ItemDetail.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── db.json
+├── index.html
+├── eslint.config.js
 └── README.md
 ```
+
 
 ## 🚀 Ejecución
 
